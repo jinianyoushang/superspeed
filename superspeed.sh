@@ -397,7 +397,6 @@ runall() {
 	clear
 	speed_test;
 	preinfo;
-	selecttest;
 	runtest;
 	rm -rf speedtest*
 }
